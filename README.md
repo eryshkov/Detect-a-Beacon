@@ -1,7 +1,7 @@
 #  Detect-a-Beacon
 
 <div align = "center">
-<img src="/screens/0.jpeg" width="20%">    <img src="/screens/1.jpeg" width="40%">    <img src="/screens/2.jpeg" width="40%">    <img src="/screens/3.jpeg" width="40%">    <img src="/screens/4.jpeg" width="40%">
+<img src="/screens/0.jpeg" width="30%">    <img src="/screens/1.jpeg" width="30%">    <img src="/screens/2.jpeg" width="30%">    <img src="/screens/3.jpeg" width="30%">    <img src="/screens/4.jpeg" width="30%">
 </div>
 
 <p align="center">
